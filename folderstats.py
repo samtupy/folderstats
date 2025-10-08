@@ -127,5 +127,6 @@ class folderstats_panel(wx.Panel):
 		self.Hide()
 		self.Fit()
 
-main_window = folderstats_frame()
-app.MainLoop()
+if __name__ == "__main__":
+	main_window = folderstats_frame()
+	app.MainLoop()

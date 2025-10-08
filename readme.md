@@ -14,8 +14,10 @@ Currently, folderstats only supports fetching basic audio lengths via python tin
 
 ## Running
 
-```pip install -r requirements.txt
-python3 folderstats.py```
+```
+pip install -r requirements.txt
+python3 folderstats.py
+```
 
 ## Support
 
